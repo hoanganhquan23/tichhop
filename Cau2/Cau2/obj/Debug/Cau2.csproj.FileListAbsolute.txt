@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\Cau2\Cau2\bin\Debug\Cau2.exe.config
+C:\Users\DELL\source\repos\Cau2\Cau2\bin\Debug\Cau2.exe
+C:\Users\DELL\source\repos\Cau2\Cau2\bin\Debug\Cau2.pdb
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.Form1.resources
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.Properties.Resources.resources
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.exe
+C:\Users\DELL\source\repos\Cau2\Cau2\obj\Debug\Cau2.pdb
